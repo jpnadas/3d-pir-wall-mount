@@ -1,3 +1,5 @@
+![](figs/models.png "Model Preview")
+
 # Summary
 
 3D model for a simple wall mount designed for the lidl zigbee PIR sensor
